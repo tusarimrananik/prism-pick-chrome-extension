@@ -1,8 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Prism Pick",
+  "short_name": "Prism Pick",
   "description": "Pick any color from a webpage and copy its HEX or RGB value.",
   "version": "1.0.0",
+  "homepage_url": "https://github.com/tusarimrananik/prism-pick-chrome-extension",
+  "offline_enabled": true,
   "action": {
     "default_title": "Prism Pick",
     "default_popup": "index.html",

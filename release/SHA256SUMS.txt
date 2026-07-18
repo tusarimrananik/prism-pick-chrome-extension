@@ -1,1 +1,1 @@
-1e46dcb75b96f6a78f8c1e30ffc998f441e76c11d89af7853da37863ea917667  prism-pick-extension-v1.0.0.zip
+63bcfeaa968b58c0f6c6a50452f69c13ffbfe2a11c08bfac701e8d88ebefa831  prism-pick-extension-v1.0.0.zip
