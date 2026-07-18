@@ -1,0 +1,21 @@
+name: Bug report
+description: Report a reproducible problem in Prism Pick.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Explain the problem and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Chrome and Prism Pick versions
+    validations:
+      required: true
